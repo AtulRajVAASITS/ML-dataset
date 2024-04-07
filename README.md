@@ -9,3 +9,4 @@ KDDTrain is hacking dataset dataset has 125972 rows with 43 columns with float -
 Body performance dataset has 13393 rows with 12 columns with float - 10, object - 2 datatype.
 
 Auto hyper parameter tuning for SVM, Decision tree and KNN
+These can be run directly by importing to google colab
