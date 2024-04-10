@@ -10,3 +10,6 @@ Body performance dataset has 13393 rows with 12 columns with float - 10, object 
 
 Auto hyper parameter tuning for SVM, Decision tree and KNN
 These can be run directly by importing to google colab
+
+Logistic regression with code to give the best parameters
+These can be run directly by importing to google colab
