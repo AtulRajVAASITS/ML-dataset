@@ -13,3 +13,6 @@ These can be run directly by importing to google colab
 
 Logistic regression with code to give the best parameters
 These can be run directly by importing to google colab
+
+Random Forest with code to give the best parameters
+These can be run directly by importing to google colab
