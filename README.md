@@ -21,3 +21,6 @@ Auto_model_training_for_a_dataset
 This script will train the model in KNN, Decision tree, Random forest, Logistic Regression, SVM
 These can be run directly by importing to google colab
 The parameters can be changed in the file
+
+Auto hyper parameter tuning for DBscan
+These can be run directly by importing to google colab
