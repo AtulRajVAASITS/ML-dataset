@@ -24,3 +24,8 @@ The parameters can be changed in the file
 
 Auto hyper parameter tuning for DBscan
 These can be run directly by importing to google colab
+
+Linear Regression with various regressor algorithms
+This file contain Linear Regression, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, GradientBoostingRegressor
+CatBoostRegressor, XGBRegressor, LGBMRegressor.
+These can be run directly by importing to google colab
